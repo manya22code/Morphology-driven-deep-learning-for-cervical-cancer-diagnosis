@@ -1,0 +1,4 @@
+{
+  "name": "Cervical Cancer Diagnosis AI",
+  "description": "An AI-powered application that analyzes cytology images to assist in the early diagnosis of cervical cancer, inspired by the Sqe-DDConvNet model with Dynamic Morphology Augmentation."
+}
